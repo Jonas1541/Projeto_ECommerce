@@ -1,4 +1,4 @@
-package avalicaosemestral;
+package avalicaosemestral.payment_methods;
 
 public class NuBank implements iPayment{
 
