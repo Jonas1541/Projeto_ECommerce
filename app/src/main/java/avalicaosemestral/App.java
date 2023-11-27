@@ -5,7 +5,6 @@ package avalicaosemestral;
 
 import avalicaosemestral.commerce.Cart;
 import avalicaosemestral.commerce.ECommerce;
-import avalicaosemestral.commerce.Item;
 import avalicaosemestral.commerce.ItemQuantity;
 import avalicaosemestral.delivery_methods.iLogistic;
 import avalicaosemestral.factory.ItemFactory;
